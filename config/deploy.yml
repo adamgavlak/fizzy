@@ -12,7 +12,7 @@ servers:
 
 # How you connect to your server
 ssh:
-  user: root  # If you use a different username to SSH to your server, specify it here
+  user: adam  # If you use a different username to SSH to your server, specify it here
 
 # Automatic SSL
 proxy:
